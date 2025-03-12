@@ -1,0 +1,14 @@
+.trending-recipes {
+    width: 80%; 
+    margin: auto;
+    text-align: center;
+}
+
+.trending-recipes img {
+    width: 60%; 
+    height: auto; 
+    max-height: 300px;
+    border-radius: 10px; 
+    object-fit: cover;
+    margin: auto;
+}

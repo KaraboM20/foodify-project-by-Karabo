@@ -1,0 +1,33 @@
+h2 {
+    color: white;
+    border:
+}
+.trending-recipes {
+    width: 80%; 
+    margin: auto;
+    text-align: center;
+}
+
+.trending-recipes img {
+    width: 80%; 
+    height: auto; 
+    max-height: 300px;
+    border-radius: 20px; 
+    object-fit: cover;
+    margin: auto;
+}
+
+.trendingrecipe-button {
+    background-color: greenyellow;
+    color: black;
+    border: none;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 25px;
+    cursor: pointer;
+    margin-top: 3px;
+}
+
+.trendingrecipe-button:hover {
+    background-color: white;
+}

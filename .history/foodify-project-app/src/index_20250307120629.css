@@ -1,0 +1,11 @@
+/* import the font karabo dont forgrt */
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body 

@@ -1,0 +1,10 @@
+.searchbox {
+    background-image: url('https://t3.ftcdn.net/jpg/08/08/17/38/240_F_808173815_pFCQsA5inCAeaIzUHiTicKU1RiNYpyEO.jpg');
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+h1,h5 {
+    color: white;
+}

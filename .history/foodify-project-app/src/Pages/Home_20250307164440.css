@@ -1,0 +1,27 @@
+.menu-options {
+    display: flex;
+    color: white;
+}
+
+.menu-options ul {
+    display: flex;
+    list-style: none; 
+    gap: 20px; 
+}
+
+.menu-options li {
+    list-style: none;
+    padding: 5px;
+    border: greenyellow solid 4px;
+    border-radius: 20px;
+}
+
+.menu-options li 
+
+.menu-options a {
+    text-decoration: none; 
+    color: white;
+    font-size: 16px; 
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}

@@ -1,0 +1,23 @@
+.menu-options {
+    display: flex;
+}
+
+.menu-options ul {
+    display: flex;
+    list-style: none; 
+    gap: 20px; 
+}
+
+.menu-options li {
+    list-style: none;
+    pa
+    border: black solid ;
+}
+
+.menu-options a {
+    text-decoration: none; 
+    color: black;
+    font-size: 16px; 
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}

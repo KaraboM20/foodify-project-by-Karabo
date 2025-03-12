@@ -1,0 +1,33 @@
+/* Font-import */
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&display=swap');
+
+/* The whole body style */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Oleo Script", system-ui;;
+}
+
+body {
+  margin: 0;
+}
+
+.body-project {
+  background-image:url('https://media.istockphoto.com/id/614746748/photo/various-herbs-and-spices-on-dark-wood-table.jpg?s=612x612&w=0&k=20&c=44TGMlS_QZ-TcfpYUIyfE2tIu8SkdydnbtJ4nPR-oIk=') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+main {
+  margin-top: 7rem;
+  text-align: center;
+}
+
+h1, h2, h3, p {
+  color: black;
+  
+}
+
